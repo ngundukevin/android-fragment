@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment app</string>
+    <string name="main_window">MAIN WINDOW</string>
+    <string name="screen4">Screen4</string>
+    <string name="screen3">Screen3</string>
+    <string name="screen2">Screen2</string>
+    <string name="screen1">Screen1</string>
+    <string name="go_to_main">Go to main</string>
+</resources>
